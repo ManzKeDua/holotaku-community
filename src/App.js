@@ -37,8 +37,8 @@ function App() {
         </div>
 
         <Section title="Social Founder & Ketua">
-          <LinkItem href="https://www.tiktok.com/@suouzen?" icon="fa-brands fa-tiktok" text="Tiktok Souzen"/>
-          <LinkItem href="https://www.tiktok.com/@suouzen?" icon="fa-brands fa-tiktok" text="Tiktok Clov"/>
+          <LinkItem href="https://www.tiktok.com/@suouzen" icon="fa-brands fa-tiktok" text="Tiktok Souzen"/>
+          <LinkItem href="https://www.tiktok.com/@abdulghofu3" icon="fa-brands fa-tiktok" text="Tiktok Clov"/>
         </Section>
 
         <Section title="Komunitas - Holotaku">
