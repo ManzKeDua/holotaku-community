@@ -27,7 +27,7 @@ function App() {
         
         <div className="subtitle">Holotaku-Community</div>
         <div className="social-icons">
-          <a href="https://www.tiktok.com/@suouzen">
+          <a href="https://www.tiktok.com/@manzoffc">
             <i className="fab fa-tiktok"></i>
           </a>
           
@@ -36,6 +36,11 @@ function App() {
           </a>
         </div>
 
+        <Section title="Social Dev Web">
+          <LinkItem href="https://www.tiktok.com/@manzoffc" icon="fa-brands fa-tiktok" text="Tiktok"/>
+          <LinkItem href="https://instragram.com/manzkenzzid_" icon="fa-brands fa-instragram" text="Instragram"/>
+        </Section>
+            
         <Section title="Social Founder & Ketua">
           <LinkItem href="https://www.tiktok.com/@suouzen" icon="fa-brands fa-tiktok" text="Tiktok Souzen"/>
           <LinkItem href="https://www.tiktok.com/@abdulghofu3" icon="fa-brands fa-tiktok" text="Tiktok Clov"/>
