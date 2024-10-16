@@ -36,7 +36,7 @@ function App() {
           </a>
         </div>
 
-        <Section title="Social Founder">
+        <Section title="Social Founder & Ketua">
           <LinkItem href="https://www.tiktok.com/@suouzen?" icon="fa-brands fa-tiktok" text="Tiktok Souzen"/>
           <LinkItem href="https://www.tiktok.com/@suouzen?" icon="fa-brands fa-tiktok" text="Tiktok Clov"/>
         </Section>
