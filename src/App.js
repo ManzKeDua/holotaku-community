@@ -42,7 +42,7 @@ function App() {
         </Section>
 
         <Section title="Komunitas - Holotaku">
-          <LinkItem href="" icon="fab fa-whatsapp" text="Holotaku Community"/>
+          <LinkItem href="https://whatsapp.com/channel/0029VaX63LG11ulGhu3Izl2g" icon="fab fa-whatsapp" text="Holotaku Community"/>
         </Section>
 
         <Section title="Group - Holotaku">
