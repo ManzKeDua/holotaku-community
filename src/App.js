@@ -8,47 +8,42 @@ function App() {
       <Helmet>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width" />
-        <meta property="og:title" content="Dikira Kira Saja" />
+        <meta property="og:title" content="Komunitas" />
         <meta property="og:image"
-          content="https://f.balxzzy.xyz/component/IMG-20240928-WA0193.jpg"/>
+          content="https://files.catbox.moe/vreqck.jpg"/>
         <meta property="og:description"
-          content="WhatsApp bot community, WhatsApp bot dev, Community WhatsApp bot, WhatsApp bot drv, wabot"/>
+          content="Holotaku-Komunitas"/>
         <meta name="twitter:image:src"
-          content="https://f.balxzzy.xyz/component/IMG-20240928-WA0193.jpg"/>
+          content="https://files.catbox.moe/vreqck.jpg"/>
         <title>Community</title>
       </Helmet>
       
       <div className="container">
         <img alt="profile picture" className="profile-pic"
-          src="https://f.balxzzy.xyz/component/IMG-20240928-WA0193.jpg"/>
+          src="https://files.catbox.moe/vreqck.jpg"/>
         <div className="title">
-          Xshiina - Community <i className="fas fa-check-circle"></i>
+          Holotaku-Community <i className="fas fa-check-circle"></i>
         </div>
         
-        <div className="subtitle">Beginner Team, Suka Bikin Honar</div>
+        <div className="subtitle">Holotaku-Community</div>
         <div className="social-icons">
-          <a href="https://instagram.com/@iqstore78">
-            <i className="fab fa-instagram"></i>
+          <a href="https://www.tiktok.com/@suouzen">
+            <i className="fab fa-tiktok"></i>
           </a>
           
-          <a href="https://wa.me/6281276400345?text=hi+balzz">
+          <a href="https://wa.me/6288989721627">
             <i className="far fa-comment-lines"></i>
           </a>
         </div>
 
-        <Section title="Social Dev Link">
-          <LinkItem href="https://me.balxzzy.xyz" icon="fa-brands fa-edge" text="My Portfolio"/>
-          <LinkItem href="https://api.balxzzy.xyz" icon="fa-regular fa-fire" text="Projects Rest API's"/>
-          <LinkItem href="https://github.com/balxz" icon="fa-brands fa-github" text="Github"/>
-          <LinkItem href="https://tiktok.com/@iqstore78" icon="fa-brands fa-tiktok" text="Tiktok"/>
+        <Section title="Social Founder">
+          <LinkItem href="https://www.tiktok.com/@suouzen?" icon="fa-brands fa-tiktok" text="Tiktok Souzen"/>
+          <LinkItem href="https://www.tiktok.com/@suouzen?" icon="fa-brands fa-tiktok" text="Tiktok Clov"/>
         </Section>
 
-        <Section title="Community - Codings">
-          <LinkItem href="https://chat.whatsapp.com/FW78A12iQIdK3snmkSKzQ3" icon="fab fa-whatsapp" text="Shiina Wabot Groups"/>
-          <LinkItem href="https://whatsapp.com/channel/0029VaSY7Lp8F2pCmQLKNn0g" icon="fab fa-whatsapp" text="Shiina Channels Community"/>
-          <LinkItem href="https://hello.com" icon="fab fa-whatsapp" text="Gmn Team"/>
-          <LinkItem href="https://chat.whatsapp.com/JbzMsezhCwUKdC6dnjwcIz" icon="fab fa-whatsapp" text="All Bot Community"/>
-          <LinkItem href="https://chat.whatsapp.com/ExSzRGszuh2FIiMctAQJMZ" icon="fab fa-whatsapp" text="BinaryCrafters"/>
+        <Section title="Community - Holotaku">
+          <LinkItem href="https://chat.whatsapp.com/DmNX70Auv9w4ezEV3DHoGE" icon="fab fa-whatsapp" text="Holotaku AnimeLoverz"/>
+          <LinkItem href="https://chat.whatsapp.com/B7Ri61T6aYI6bcP1dWva0U" icon="fab fa-whatsapp" text="Holotaku Library"/>
         </Section>
       </div>
     </div>
