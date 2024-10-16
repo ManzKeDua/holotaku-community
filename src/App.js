@@ -41,7 +41,11 @@ function App() {
           <LinkItem href="https://www.tiktok.com/@suouzen?" icon="fa-brands fa-tiktok" text="Tiktok Clov"/>
         </Section>
 
-        <Section title="Community - Holotaku">
+        <Section title="Komunitas - Holotaku">
+          <LinkItem href="" icon="fab fa-whatsapp" text="Holotaku Community"/>
+        </Section>
+
+        <Section title="Group - Holotaku">
           <LinkItem href="https://chat.whatsapp.com/DmNX70Auv9w4ezEV3DHoGE" icon="fab fa-whatsapp" text="Holotaku AnimeLoverz"/>
           <LinkItem href="https://chat.whatsapp.com/B7Ri61T6aYI6bcP1dWva0U" icon="fab fa-whatsapp" text="Holotaku Library"/>
         </Section>
