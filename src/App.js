@@ -38,7 +38,7 @@ function App() {
 
         <Section title="Social Dev Web">
           <LinkItem href="https://www.tiktok.com/@manzoffc" icon="fa-brands fa-tiktok" text="Tiktok"/>
-          <LinkItem href="https://instragram.com/manzkenzzid_" icon="fa-brands fa-instragram" text="Instagram"/>
+          <LinkItem href="https://instragram.com/manzkenzzid_" icon="fa-brands fa-instagram" text="Instagram"/>
         </Section>
             
         <Section title="Social Founder & Ketua">
