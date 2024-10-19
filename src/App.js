@@ -46,7 +46,7 @@ function App() {
           <LinkItem href="https://www.tiktok.com/@abdulghofu3" icon="fa-brands fa-tiktok" text="Tiktok Clov"/>
         </Section>
 
-        <Section title="Komunitas - Holotaku">
+        <Section title="Channel - Holotaku">
           <LinkItem href="https://whatsapp.com/channel/0029VaX63LG11ulGhu3Izl2g" icon="fab fa-whatsapp" text="Holotaku Community"/>
         </Section>
 
